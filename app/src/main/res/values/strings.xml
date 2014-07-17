@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyToast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="simplest_toast">Simplest toast from resource</string>
+    <string name="this_is_long_toast">This is long toast</string>
+    <string name="formatted_toast" formatted="false">Formatted toast from resource: %s %d</string>
+    <string name="toast_from_thread">Toast from thread</string>
+</resources>
