@@ -11,7 +11,7 @@ Xdroid-Toaster is sub-project of [Xdroid Library][1]. Simplify your life using `
 
 ```
 dependencies {
-    compile 'com.shamanland:xdroid-toaster:0.0.5'
+    compile 'com.shamanland:xdroid-toaster:0.0.10'
 }
 ```
 
